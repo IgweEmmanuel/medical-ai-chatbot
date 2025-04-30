@@ -1,0 +1,5 @@
+[accounts.wallet_1]
+balance = "100000000000"
+
+[accounts.deployer]
+balance = "100000000000"
