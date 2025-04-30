@@ -1,7 +1,9 @@
 <<<<<<< HEAD
+
 # medical-ai-chatbot
-Medical ai chatbot for basic use, smart contract in clarity
-=======
+
+# Medical ai chatbot for basic use, smart contract in clarity
+
 # Medical AI Chatbot – Personal Doctor on Stacks Blockchain
 
 The **Medical AI Chatbot** project demonstrates the creation of a **decentralized medical AI system** using the **Clarity language** on the **Stacks blockchain**. The system allows patients to store their medical records on-chain, submit their symptoms, receive diagnoses, and maintain their medical history in a secure and transparent environment.
@@ -21,7 +23,7 @@ The **Medical AI Chatbot** project demonstrates the creation of a **decentralize
 - [Configuration](#configuration)
   - [Devnet Configuration](#devnet-configuration)
 - [License](#license)
-  
+
 ---
 
 ## Overview
@@ -60,5 +62,6 @@ Once the dependencies are installed, follow the steps below to get started with 
    ```bash
    git clone https://github.com/IgweEmmanuel/medical-ai-chatbot.git
    cd medical-ai-chatbot
+   ```
 
->>>>>>> 295f82b (medicatl ai chatbot)
+> > > > > > > 295f82b (medicatl ai chatbot)
